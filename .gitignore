@@ -1,0 +1,6 @@
+.git
+.idea
+
+# Terraform specific excludes
+.terraform
+.terraform.lock.hcl
